@@ -81,7 +81,7 @@ My research interests include *multimedia computing, information retrieval*.
 
 **MEDIAN: Adaptive Intermediate-grained Aggregation Network for Composed Image** [[PDF]](https://ieeexplore.ieee.org/document/10890642) [[Website]](https://windlikeo.github.io/MEDIAN.github.io/) 
 
-[***Qinlei Huang***](https://windlikeo.github.io/HQL.github.io), [Zixu Li](https://lee-zixu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), Chunxiao Wang, [Xuemeng Song](https://xuemengsong.github.io/), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Liqiang Nie](https://liqiangnie.github.io/index.html)
+[***Qinlei Huang***](https://windlikeo.github.io/HQL.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), [Zixu Li](https://lee-zixu.github.io), Chunxiao Wang, [Xuemeng Song](https://xuemengsong.github.io/), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Liqiang Nie](https://liqiangnie.github.io/index.html)
 </div>
 </div>
 
@@ -95,6 +95,3 @@ My research interests include *multimedia computing, information retrieval*.
 - *2025.10*, **Grand Prize** in the CICAS Smart Power Scenario Competition.
 # 📖 Educations
 - *2022.09 - Present*, Undergrad in the School of Software, Shandong University. 
-
-# 📃 Services
-- Conference PC Member: AAAI 
