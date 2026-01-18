@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/HQL/#about-me"
+    url: "/HQL.github.io/#about-me"
 
   - title: "News"
-    url: "/HQL/#-news"
+    url: "/HQL.github.io/#-news"
 
   - title: "Publications"
-    url: "/HQL/#-publications"
+    url: "/HQL.github.io/#-publications"
 
   - title: "Honors and Awards"
-    url: "/HQL/#-honors-and-awards"
+    url: "/HQL.github.io/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/HQL/#-educations"
+    url: "/HQL.github.io/#-educations"
 
   - title: "Invited Talks"
-    url: "/HQL/#-invited-talks"
+    url: "/HQL.github.io/#-invited-talks"
 
   - title: "Internships"
-    url: "/HQL/#-internships"
+    url: "/HQL.github.io/#-internships"
