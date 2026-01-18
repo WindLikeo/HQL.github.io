@@ -38,7 +38,7 @@ My research interests include *multimedia computing, information retrieval*.
 
 **REFINE: Composed Video Retrieval via Shared and Differential Semantics Enhancement** [*Coming Soon*]
 
-[Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zixu Li](https://lee-zixu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), Qinlei Huang, [***Zhiheng Fu***](https://zhihfu.github.io), [Mingzhu Xu](https://faculty.sdu.edu.cn/xumingzhu/zh_CN/), [Liqiang Nie](https://liqiangnie.github.io/index.html)
+[Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zixu Li](https://lee-zixu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), [***Qinlei Huang***](https://windlikeo.github.io/HQL.github.io), [Zhiheng Fu](https://zhihfu.github.io), [Mingzhu Xu](https://faculty.sdu.edu.cn/xumingzhu/zh_CN/), [Liqiang Nie](https://liqiangnie.github.io/index.html)
 
 </div>
 </div>
@@ -49,7 +49,7 @@ My research interests include *multimedia computing, information retrieval*.
 
 **ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval** [*Coming Soon*]
 
-[Zixu Li](https://lee-zixu.github.io), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zhiwei Chen](https://zivchen-ty.github.io/), [***Qinlei Huang***](https://WindLikeo/HQL.github.io), Guozhi Qiu, [Zhiheng Fu](https://zhihfu.github.io), [Meng Liu](https://mengliu1991.github.io)
+[Zixu Li](https://lee-zixu.github.io), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zhiwei Chen](https://zivchen-ty.github.io/), [***Qinlei Huang***](https://windlikeo.github.io/HQL.github.io), Guozhi Qiu, [Zhiheng Fu](https://zhihfu.github.io), [Meng Liu](https://mengliu1991.github.io)
 
 </div>
 </div>
@@ -60,7 +60,7 @@ My research interests include *multimedia computing, information retrieval*.
 
 **HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval** [*Coming Soon*]
 
-[Zixu Li](https://lee-zixu.github.io), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zhiwei Chen](https://zivchen-ty.github.io/), Shiqi Zhang, Qinlei Huang, [***Zhiheng Fu***](https://zhihfu.github.io), [Yinwei Wei](https://weiyinwei.github.io)
+[Zixu Li](https://lee-zixu.github.io), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zhiwei Chen](https://zivchen-ty.github.io/), Shiqi Zhang, [***Qinlei Huang***](https://windlikeo.github.io/HQL.github.io), [Zhiheng Fu](https://zhihfu.github.io), [Yinwei Wei](https://weiyinwei.github.io)
 
 </div>
 </div>
@@ -71,26 +71,26 @@ My research interests include *multimedia computing, information retrieval*.
 
 **INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval** [*Coming Soon*]
 
-[Zhiwei Chen](https://zivchen-ty.github.io/), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [***Zhiheng Fu***](https://zhihfu.github.io), [Zixu Li](https://lee-zixu.github.io), Jiale Huang, Qinlei Huang, [Yinwei Wei](https://weiyinwei.github.io)
+[Zhiwei Chen](https://zivchen-ty.github.io/), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Zhiheng Fu](https://zhihfu.github.io), [Zixu Li](https://lee-zixu.github.io), Jiale Huang, [***Qinlei Huang***](https://windlikeo.github.io/HQL.github.io), [Yinwei Wei](https://weiyinwei.github.io)
 
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/PAIR-ICASSP25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/MEDIAN-ICASSP25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**PAIR: Complementarity-guided Disentanglement for Composed Image Retrieval** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10888153) [[Website]](https://zhihfu.github.io/PAIR.github.io/) [[Code]](https://drive.google.com/drive/folders/1aVhi7SkZAXCP8bnoD2fQT15Ozrq75xLU) 
+**MEDIAN: Adaptive Intermediate-grained Aggregation Network for Composed Image** [[PDF]](https://ieeexplore.ieee.org/document/10890642) [[Website]](https://windlikeo.github.io/MEDIAN.github.io/) 
 
-[***Zhiheng Fu***](https://ZhihFu.github.io/), [Zixu Li](https://lee-zixu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), Chunxiao Wang, [Xuemeng Song](https://xuemengsong.github.io/), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Liqiang Nie](https://liqiangnie.github.io/index.html)
+[***Qinlei Huang***](https://windlikeo.github.io/HQL.github.io), [Zixu Li](https://lee-zixu.github.io), [Zhiwei Chen](https://zivchen-ty.github.io/), Chunxiao Wang, [Xuemeng Song](https://xuemengsong.github.io/), [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), [Liqiang Nie](https://liqiangnie.github.io/index.html)
 </div>
-</div> -->
+</div>
 
 
 # 🔖 Patent 
-- 基于实体挖掘和修改关系绑定的组合图像检索方法及系统 - 公开号: *CN120067365A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=付志恒+山东大学&rows=10#1/CN202411903224.3/detail/abst)
-- 基于自适应中间粒度聚合网络的组合图像检索方法及系统 - 公开号: *CN120104822A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=付志恒+山东大学&rows=10#1/CN202510274983.6/detail/abst)
-- 一种基于分割焦点偏移修正的组合图像检索方法及系统 - 公开号: *CN120144812A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=付志恒+山东大学&rows=10#1/CN202510143920.7/detail/abst)
-- 基于互补性引导解耦的组合图像检索方法及系统 - 公开号: *CN120144811A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=付志恒+山东大学&rows=10#1/CN202510142418.4/detail/abst)
+- 基于实体挖掘和修改关系绑定的组合图像检索方法及系统 - 公开号: *CN120067365A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=%E9%BB%84%E9%92%A6%E7%A3%8A+%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6&rows=10#1/CN202411903224.3/detail/abst)
+- 基于自适应中间粒度聚合网络的组合图像检索方法及系统 - 公开号: *CN120104822A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=%E9%BB%84%E9%92%A6%E7%A3%8A+%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6&rows=10#1/CN202510274983.6/detail/abst)
+- 一种基于分割焦点偏移修正的组合图像检索方法及系统 - 公开号: *CN120144812A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=%E9%BB%84%E9%92%A6%E7%A3%8A+%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6&rows=10#1/CN202510143920.7/detail/abst)
+- 基于互补性引导解耦的组合图像检索方法及系统 - 公开号: *CN120144811A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=%E9%BB%84%E9%92%A6%E7%A3%8A+%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6&rows=10#1/CN202510142418.4/detail/abst)
 # 🏆 Honors and Awards
 - *2025.10*, **Grand Prize** in the CICAS Smart Power Scenario Competition.
 # 📖 Educations
