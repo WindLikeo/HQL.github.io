@@ -21,7 +21,7 @@ Hi, I am Qinlei Huang (黄钦磊).
 =====
 I'm currently an Undergrad student in the [School of Software](https://www.sc.sdu.edu.cn), [Shandong University](https://www.sdu.edu.cn), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm). 
 
-My research interests include *multimedia computing, information retrieval*.
+My research interests include *Multimodal Large Language Models, robust representation learning, and trustworthy AI*.
 
 
 # 🔥 News
