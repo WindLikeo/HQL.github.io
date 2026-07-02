@@ -85,12 +85,6 @@ My research interests include *multimedia computing, information retrieval*.
 </div>
 </div>
 
-
-# 🔖 Patent 
-- 基于实体挖掘和修改关系绑定的组合图像检索方法及系统 - 公开号: *CN120067365A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=%E9%BB%84%E9%92%A6%E7%A3%8A+%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6&rows=10#1/CN202411903224.3/detail/abst)
-- 基于自适应中间粒度聚合网络的组合图像检索方法及系统 - 公开号: *CN120104822A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=%E9%BB%84%E9%92%A6%E7%A3%8A+%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6&rows=10#1/CN202510274983.6/detail/abst)
-- 一种基于分割焦点偏移修正的组合图像检索方法及系统 - 公开号: *CN120144812A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=%E9%BB%84%E9%92%A6%E7%A3%8A+%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6&rows=10#1/CN202510143920.7/detail/abst)
-- 基于互补性引导解耦的组合图像检索方法及系统 - 公开号: *CN120144811A* - [[详情]](https://www.baiten.cn/patent/detail/3af290afe06cce7ff17d1af87d3ba3b7845214512dc12e86?sc=&fq=&type=&sort=&sortField=&q=%E9%BB%84%E9%92%A6%E7%A3%8A+%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6&rows=10#1/CN202510142418.4/detail/abst)
 # 🏆 Honors and Awards
 - *2025.10*, **Grand Prize** in the CICAS Smart Power Scenario Competition.
 # 📖 Educations
