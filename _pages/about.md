@@ -13,7 +13,7 @@ redirect_from:
 Hi, I am Qinlei Huang.
 =====
 
-I am currently pursuing a Master's degree in the [School of Software](https://www.sc.sdu.edu.cn) at [Shandong University](https://www.sdu.edu.cn), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm). My research interests include multimodal retrieval, robust representation learning, and trustworthy AI.
+I am currently pursuing a Master's degree in the [School of Software](https://www.sc.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html), Prof. [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), and Dr. [Zixu Li](https://lee-zixu.github.io/). My research interests mainly focus on **World Model, Agent, Multimodal Video Understanding and Generation**.
 
 # 🔥 News
 
@@ -36,7 +36,7 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
         <a class="paper-link-btn" href="https://sdu-l.github.io/REFINE.github.io/" target="_blank" rel="noopener">Project</a>
         <a class="paper-link-btn" href="https://github.com/iLearn-Lab/TOMM26-REFINE" target="_blank" rel="noopener">Code</a>
       </div>
-      <p class="paper-authors"><a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng Hu</a>, <a href="https://lee-zixu.github.io"><strong><em>Zixu Li</em></strong></a> ⚓️, <a href="https://zivchen-ty.github.io/">Zhiwei Chen</a>, <a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, <a href="https://zhihfu.github.io">Zhiheng Fu</a>, <a href="https://faculty.sdu.edu.cn/xumingzhu/zh_CN/">Mingzhu Xu</a> 📧, <a href="https://liqiangnie.github.io/index.html">Liqiang Nie</a></p>
+      <p class="paper-authors"><a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm"><strong>Yupeng Hu</strong></a>, <a href="https://lee-zixu.github.io"><strong>Zixu Li</strong></a>, <a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a>, <a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, <a href="https://zhihfu.github.io"><strong>Zhiheng Fu</strong></a>, <a href="https://faculty.sdu.edu.cn/xumingzhu/zh_CN/"><strong>Mingzhu Xu</strong></a> 📧, <a href="https://liqiangnie.github.io/index.html"><strong>Liqiang Nie</strong></a></p>
     </div>
   </div>
 
@@ -49,7 +49,7 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
         <a class="paper-link-btn" href="https://lee-zixu.github.io/ReTrack.github.io/" target="_blank" rel="noopener">Project</a>
         <a class="paper-link-btn" href="https://github.com/Lee-zixu/ReTrack" target="_blank" rel="noopener">Code</a>
       </div>
-      <p class="paper-authors"><a href="https://lee-zixu.github.io"><strong><em>Zixu Li</em></strong></a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng Hu</a> 📧, <a href="https://zivchen-ty.github.io/">Zhiwei Chen</a>, <a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, Guozhi Qiu, <a href="https://zhihfu.github.io">Zhiheng Fu</a>, <a href="https://mengliu1991.github.io">Meng Liu</a></p>
+      <p class="paper-authors"><a href="https://lee-zixu.github.io"><strong>Zixu Li</strong></a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm"><strong>Yupeng Hu</strong></a> 📧, <a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a>, <a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, <strong>Guozhi Qiu</strong>, <a href="https://zhihfu.github.io"><strong>Zhiheng Fu</strong></a>, <a href="https://mengliu1991.github.io"><strong>Meng Liu</strong></a></p>
     </div>
   </div>
 
@@ -62,7 +62,7 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
         <a class="paper-link-btn" href="https://lee-zixu.github.io/HABIT.github.io/" target="_blank" rel="noopener">Project</a>
         <a class="paper-link-btn" href="https://github.com/Lee-zixu/HABIT" target="_blank" rel="noopener">Code</a>
       </div>
-      <p class="paper-authors"><a href="https://lee-zixu.github.io"><strong><em>Zixu Li</em></strong></a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng Hu</a> 📧, <a href="https://zivchen-ty.github.io/">Zhiwei Chen</a>, Shiqi Zhang, <a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, <a href="https://zhihfu.github.io">Zhiheng Fu</a>, <a href="https://weiyinwei.github.io">Yinwei Wei</a></p>
+      <p class="paper-authors"><a href="https://lee-zixu.github.io"><strong>Zixu Li</strong></a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm"><strong>Yupeng Hu</strong></a> 📧, <a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a>, <strong>Shiqi Zhang</strong>, <a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, <a href="https://zhihfu.github.io"><strong>Zhiheng Fu</strong></a>, <a href="https://weiyinwei.github.io"><strong>Yinwei Wei</strong></a></p>
     </div>
   </div>
 
@@ -75,7 +75,7 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
         <a class="paper-link-btn" href="https://zivchen-ty.github.io/INTENT.github.io/" target="_blank" rel="noopener">Project</a>
         <a class="paper-link-btn" href="https://github.com/ZivChen-Ty/INTENT" target="_blank" rel="noopener">Code</a>
       </div>
-      <p class="paper-authors"><a href="https://zivchen-ty.github.io/">Zhiwei Chen</a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng Hu</a> 📧, <a href="https://zhihfu.github.io">Zhiheng Fu</a>, <a href="https://lee-zixu.github.io"><strong><em>Zixu Li</em></strong></a> ⚓️, Jiale Huang, <a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, <a href="https://weiyinwei.github.io">Yinwei Wei</a></p>
+      <p class="paper-authors"><a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm"><strong>Yupeng Hu</strong></a> 📧, <a href="https://zhihfu.github.io"><strong>Zhiheng Fu</strong></a>, <a href="https://lee-zixu.github.io"><strong>Zixu Li</strong></a>, <strong>Jiale Huang</strong>, <a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, <a href="https://weiyinwei.github.io"><strong>Yinwei Wei</strong></a></p>
     </div>
   </div>
 
@@ -88,7 +88,7 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
         <a class="paper-link-btn" href="https://windlikeo.github.io/MEDIAN.github.io/" target="_blank" rel="noopener">Project</a>
         <a class="paper-link-btn" href="https://drive.google.com/drive/u/3/folders/1ixh_JHkyPGzCM5ntApkA7xoQhgq1j-n_" target="_blank" rel="noopener">Code</a>
       </div>
-      <p class="paper-authors"><a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, <a href="https://zivchen-ty.github.io/">Zhiwei Chen</a>, <a href="https://lee-zixu.github.io"><strong><em>Zixu Li</em></strong></a> ⚓️, Chunxiao Wang, <a href="https://xuemengsong.github.io/">Xuemeng Song</a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng Hu</a> 📧, <a href="https://liqiangnie.github.io/index.html">Liqiang Nie</a></p>
+      <p class="paper-authors"><a href="https://windlikeo.github.io/HQL.github.io"><strong><em>Qinlei Huang</em></strong></a>, <a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a>, <a href="https://lee-zixu.github.io"><strong>Zixu Li</strong></a> ⚓️, <strong>Chunxiao Wang</strong>, <a href="https://xuemengsong.github.io/"><strong>Xuemeng Song</strong></a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm"><strong>Yupeng Hu</strong></a> 📧, <a href="https://liqiangnie.github.io/index.html"><strong>Liqiang Nie</strong></a></p>
     </div>
   </div>
 </div>
