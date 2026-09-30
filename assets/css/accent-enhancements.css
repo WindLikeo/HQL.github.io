@@ -358,6 +358,22 @@ body {
   color: #012F63 !important;
 }
 
+/* Keep the long profile page content in document flow so the footer cannot cover Education. */
+.page__footer {
+  position: relative !important;
+  bottom: auto !important;
+  clear: both !important;
+}
+
+#education {
+  display: block !important;
+  clear: both !important;
+  position: relative;
+  z-index: 1;
+  margin-top: 2rem;
+  padding-bottom: 1rem;
+}
+
 .highlight-block, .paper-box, .floating-card, blockquote, .quote-accent {
   background: #ffffff !important;
   color: #012F63 !important;
