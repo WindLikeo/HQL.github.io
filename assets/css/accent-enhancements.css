@@ -546,6 +546,12 @@ body {
   font-size: 0.93rem !important;
 }
 
+#publications-wrapper .paper-authors a,
+#publications-wrapper .paper-authors a:visited,
+#publications-wrapper .paper-authors a:hover {
+  text-decoration: none !important;
+}
+
 #publications-wrapper .author-self,
 #publications-wrapper .author-self:visited {
   background: linear-gradient(90deg, #7e22ce 0%, #c026d3 32%, #e11d48 68%, #fb7185 100%) !important;
@@ -553,6 +559,7 @@ body {
   -webkit-text-fill-color: transparent !important;
   background-clip: text !important;
   font-weight: 800 !important;
+  font-style: italic !important;
   text-decoration: none !important;
   filter: saturate(1.35) contrast(1.05);
 }
