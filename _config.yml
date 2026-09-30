@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Qinlei Huang's Homepage"
 description              : "Master's student at Shandong University researching multimodal retrieval and robust representation learning"
+url                      : https://windlikeo.github.io
+baseurl                  : /HQL.github.io
 repository               : "WindLikeo/HQL.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qinlei Huang"
-  avatar           : "images/self.jpg"
+  avatar           : "self.jpg"
   bio              : "Master's student at Shandong University"
   location         : "Jinan, Shandong, China"
   employer         :
@@ -124,7 +126,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: default
+      layout: single
       author_profile: true
 
 
