@@ -75,7 +75,7 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
         <a class="paper-link-btn" href="https://zivchen-ty.github.io/INTENT.github.io/" target="_blank" rel="noopener">Project</a>
         <a class="paper-link-btn" href="https://github.com/ZivChen-Ty/INTENT" target="_blank" rel="noopener">Code</a>
       </div>
-      <p class="paper-authors"><a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm"><strong>Yupeng Hu</strong></a> 📧, <a href="https://zhihfu.github.io"><strong>Zhiheng Fu</strong></a>, <a href="https://lee-zixu.github.io"><strong>Zixu Li</strong></a>, Jiale Huang, <a href="https://windlikeo.github.io/HQL.github.io" class="author-self">Qinlei Huang</a>, <a href="https://weiyinwei.github.io"><strong>Yinwei Wei</strong></a></p>
+      <p class="paper-authors"><a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm"><strong>Yupeng Hu</strong></a> 📧, <a href="https://zhihfu.github.io"><strong>Zhiheng Fu</strong></a>, <a href="https://lee-zixu.github.io"><strong>Zixu Li</strong></a> ⚓️, <a href="https://arcadiadream.github.io/HJL.github.io/"><strong>Jiale Huang</strong></a>, <a href="https://windlikeo.github.io/HQL.github.io" class="author-self">Qinlei Huang</a>, <a href="https://weiyinwei.github.io"><strong>Yinwei Wei</strong></a></p>
     </div>
   </div>
 
@@ -86,7 +86,7 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
       <div class="paper-link-container">
         <a class="paper-link-btn" href="https://ieeexplore.ieee.org/abstract/document/10890642" target="_blank" rel="noopener">Paper</a>
         <a class="paper-link-btn" href="https://windlikeo.github.io/MEDIAN.github.io/" target="_blank" rel="noopener">Project</a>
-        <a class="paper-link-btn" href="https://github.com/iLearn-Lab/ICASSP25-MEDIAN" target="_blank" rel="noopener">Code</a>
+        <a class="paper-link-btn" href="https://drive.google.com/drive/u/3/folders/1ixh_JHkyPGzCM5ntApkA7xoQhgq1j-n_" target="_blank" rel="noopener">Code</a>
       </div>
       <p class="paper-authors"><a href="https://windlikeo.github.io/HQL.github.io" class="author-self">Qinlei Huang</a>, <a href="https://zivchen-ty.github.io/"><strong>Zhiwei Chen</strong></a>, <a href="https://lee-zixu.github.io"><strong>Zixu Li</strong></a> ⚓️, Chunxiao Wang, <a href="https://xuemengsong.github.io/"><strong>Xuemeng Song</strong></a>, <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm"><strong>Yupeng Hu</strong></a> 📧, <a href="https://liqiangnie.github.io/index.html"><strong>Liqiang Nie</strong></a></p>
     </div>
@@ -98,7 +98,10 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
 - *2026*: **Grand Challenge 1st Place**, eCommerce Data Challenge at SIGIR 2026.
 - *2025*: **Grand Prize**, CICAS Smart Power Scenario Competition.
 
-<h1 id="education">📖 Education</h1>
-
-- *2026.09–Present*: Master's student, School of Software, Shandong University.
-- *2022.09–2026.06*: Bachelor's degree, School of Software, Shandong University.
+<section id="education" class="profile-section">
+  <h1>📖 Education</h1>
+  <ul>
+    <li><em>2026.09–Present</em>: Master's student, School of Software, Shandong University.</li>
+    <li><em>2022.09–2026.06</em>: Bachelor's degree, School of Software, Shandong University.</li>
+  </ul>
+</section>
