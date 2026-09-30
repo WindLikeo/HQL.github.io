@@ -28,8 +28,8 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
   <p class="paper-note">⚓️ denotes project leader; 📧 denotes corresponding author.</p>
 
   <div id="paper-refine" class="paper-box floating-card">
-    <div class="paper-box-image"><div><div class="badge">ACM ToMM 2026</div><img src="images/REFINE-ToMM26.png" alt="REFINE" width="100%"></div></div>
-    <div class="paper-box-text" markdown="1">
+    <div class="paper-box-image"><div><div class="badge">ACM ToMM 2026</div><img src="{{ '/images/REFINE-ToMM26.png' | relative_url }}" alt="REFINE" width="100%"></div></div>
+    <div class="paper-box-text">
       <p><strong>REFINE: Composed Video Retrieval via Shared and Differential Semantics Enhancement</strong></p>
       <div class="paper-link-container">
         <a class="paper-link-btn" href="https://dl.acm.org/doi/10.1145/3796712" target="_blank" rel="noopener">Paper</a>
@@ -41,8 +41,8 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
   </div>
 
   <div id="paper-retrack" class="paper-box floating-card">
-    <div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="images/2026-ReTrack-AAAI26.png" alt="ReTrack" width="100%"></div></div>
-    <div class="paper-box-text" markdown="1">
+    <div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="{{ '/images/2026-ReTrack-AAAI26.png' | relative_url }}" alt="ReTrack" width="100%"></div></div>
+    <div class="paper-box-text">
       <p><strong>ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval</strong></p>
       <div class="paper-link-container">
         <a class="paper-link-btn" href="https://arxiv.org/abs/2604.17898" target="_blank" rel="noopener">Paper</a>
@@ -54,8 +54,8 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
   </div>
 
   <div id="paper-habit" class="paper-box floating-card">
-    <div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="images/2026-HABIT-AAAI26.png" alt="HABIT" width="100%"></div></div>
-    <div class="paper-box-text" markdown="1">
+    <div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="{{ '/images/2026-HABIT-AAAI26.png' | relative_url }}" alt="HABIT" width="100%"></div></div>
+    <div class="paper-box-text">
       <p><strong>HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval</strong></p>
       <div class="paper-link-container">
         <a class="paper-link-btn" href="https://arxiv.org/abs/2604.18037" target="_blank" rel="noopener">Paper</a>
@@ -67,8 +67,8 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
   </div>
 
   <div id="paper-intent" class="paper-box floating-card">
-    <div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="images/2026-INTENT-AAAI26.png" alt="INTENT" width="100%"></div></div>
-    <div class="paper-box-text" markdown="1">
+    <div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="{{ '/images/2026-INTENT-AAAI26.png' | relative_url }}" alt="INTENT" width="100%"></div></div>
+    <div class="paper-box-text">
       <p><strong>INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval</strong></p>
       <div class="paper-link-container">
         <a class="paper-link-btn" href="https://arxiv.org/abs/2604.18051" target="_blank" rel="noopener">Paper</a>
@@ -80,8 +80,8 @@ I am currently pursuing a Master's degree in the [School of Software](https://ww
   </div>
 
   <div id="paper-median" class="paper-box floating-card">
-    <div class="paper-box-image"><div><div class="badge">ICASSP 2025</div><img src="images/MEDIAN-ICASSP25.png" alt="MEDIAN" width="100%"></div></div>
-    <div class="paper-box-text" markdown="1">
+    <div class="paper-box-image"><div><div class="badge">ICASSP 2025</div><img src="{{ '/images/MEDIAN-ICASSP25.png' | relative_url }}" alt="MEDIAN" width="100%"></div></div>
+    <div class="paper-box-text">
       <p><strong>MEDIAN: Adaptive Intermediate-grained Aggregation Network for Composed Image Retrieval</strong></p>
       <div class="paper-link-container">
         <a class="paper-link-btn" href="https://ieeexplore.ieee.org/abstract/document/10890642" target="_blank" rel="noopener">Paper</a>
