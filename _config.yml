@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qinlei Huang's Homepage"
-description              : "Undergrad Student at Shandong University. "
+description              : "Researcher in multimodal retrieval and robust representation learning"
 repository               : "WindLikeo/HQL.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/WindLikeo
+  github           : WindLikeo
   google_plus      :
   keybase          :
   instagram        :
