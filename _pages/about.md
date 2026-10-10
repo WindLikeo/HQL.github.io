@@ -13,7 +13,7 @@ redirect_from:
 Hi, I am Qinlei Huang.
 =====
 
-I am currently pursuing a Master's degree in the [School of Software](https://www.sc.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html), Prof. [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), and Dr. [Zixu Li](https://lee-zixu.github.io/). My research interests mainly focus on **World Model, Agent, Multimodal Video Understanding and Generation**.
+I am currently pursuing a Master's degree in the [School of Software](https://www.sc.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html), Prof. [Yupeng Hu](https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm), and Mr. [Zixu Li](https://lee-zixu.github.io/). My research interests mainly focus on **World Model, Agent, Multimodal Video Understanding and Generation**.
 
 # 🔥 News
 
